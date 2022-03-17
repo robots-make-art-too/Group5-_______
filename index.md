@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 1720 Group 5 Pages
 
 You can use the [editor on GitHub](https://github.com/robots-make-art-too/Group5-_______/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
