@@ -2,7 +2,7 @@
 
 Link to our [Github Pages](https://robots-make-art-too.github.io/Group5-_______/)
 
-[Github Pages QR Code](https://github.com/robots-make-art-too/Group5-_______/blob/gh-pages/QR%20Code.png?raw=true)
+[Github Pages QR Code](https://github.com/robots-make-art-too/Group5-_______/raw/gh-pages/QR%20Code.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
