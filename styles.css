@@ -1,0 +1,15 @@
+h1 {
+    color:aqua;
+    font: size 36px;
+    font-family: "consolas","Helvetica","sans-serif";
+}
+
+p {
+    color:aquamarine;
+    font: size 15px;
+    font-family: "consolas","Helvetica","sans-serif";
+}
+
+body {
+    background-color: #222729;
+}
