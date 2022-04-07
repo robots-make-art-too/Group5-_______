@@ -20,7 +20,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Roles
 - **Alyssa**: 
-- **Chris**: Webpage Setup, Camera, Server setup
+- **Chris**: Webpage and camera setup
 - **Dennis**:
 - **Gianluca**:
 - **Vincent**: 
