@@ -1,4 +1,4 @@
-## 1720 Group 5 Pages
+# 1720 Group 5 Pages
 
 Link to our [Github Pages](https://robots-make-art-too.github.io/Group5-_______/)
 
@@ -6,34 +6,21 @@ Link to our [Github Pages](https://robots-make-art-too.github.io/Group5-_______/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Project Plan
+- Augmented Reality Scavenger Hunt game
+- Takes place around York University campus
+- Uses Longitude and Latitude for positioning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Required Sections
+1. **Webpage and camera setup**: set up the QR for github pages, then access client's camera
+2. **Hunt item placement**: places the targets around the playable area (York University)
+3. **Location detection**: where the client is compared to where the targets are (using GPS)
+4. **Data sending**: regularly sends the client's distance from target to server
+5. **Response**: when client has captured the target, server returns appropriate response
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robots-make-art-too/Group5-_______/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Roles
+- **Alyssa**: 
+- **Chris**: Webpage Setup, Camera, Server setup
+- **Dennis**:
+- **Gianluca**:
+- **Vincent**: 
