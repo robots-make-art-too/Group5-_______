@@ -22,6 +22,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Roles
 - **Alyssa**: 
 - **Chris**: Webpage and camera setup
-- **Dennis**:
+- **Dennis**: Location detection
 - **Gianluca**:
 - **Vincent**: Hunt item placement
