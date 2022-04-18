@@ -1,0 +1,49 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+
+<style>
+    * {
+        font-family: "Rubik", "sans-serif";
+    }
+
+    div {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    h1 {
+        color: red;
+        font-size: 40pt;
+    }
+
+    p {
+        font-size: 24pt;
+    }
+</style>
+
+<script>
+    function getLocation() {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(showPosition);
+    } else { 
+        document.getElementById("mess").innerHTML = "Geolocation is not supported by this browser.";
+    }
+  }
+
+function showPosition(position) {
+  document.getElementById("lat").innerHTML = "Latitude: " + position.coords.latitude;
+  document.getElementById("long").innerHTML = "Longitude: " + position.coords.longitude;
+}
+</script>
+<div>
+   
+    <h1>Thank you for using Snom's Patented Coordinate location tech!</h1><br>
+   
+    <p id="mess">Your Current Lat/Long Coords are:</p>
+
+    <button onclick="getLocation()">Press Here for coords</button><br>
+
+    <p1 id="lat"></p1><br>
+    <p1 id="long"></p1><br>
+   
+</div>
